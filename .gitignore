@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+.env.local
+node_modules/
+frontend/dist/
+*.db
+*.pkl
+*.sqlite
+chroma_data/
+backend/store/
+.DS_Store
